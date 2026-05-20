@@ -10,7 +10,7 @@
 - 📫 How to reach me: [skywork0721@outlook.com](mailto:skywork0721@outlook.com)
 ---
 
-### 后端技术栈
+### Backend
 
 <p>
   <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=MySQL&logoColor=FFF" alt="MySQL" style="display: inline-block;" />&nbsp;
@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/-PHP-DCDCDC?logo=PHP&logoColor=00ADD8" alt="PHP" style="display: inline-block;" />&nbsp;
 </p>
 
-### 前端技术栈
+### Frontend
 
 <p>
   <img src="https://img.shields.io/badge/-Vue3-C0C0C0?logo=Vue.js&logoColor=4FC08D" alt="Vue3" style="display: inline-block;" />&nbsp;
@@ -60,11 +60,6 @@
   <img src="https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=FFF" alt="Docker" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=Kubernetes&logoColor=FFF" alt="Kubernetes" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Debian-D0074E?logo=Debian&logoColor=FFF" alt="Debian" style="display: inline-block;" />&nbsp;
-</p>
-
-### 运维技术栈
-
-<p>
   <img src="https://img.shields.io/badge/-阿里云-FF6A00?logo=Alibaba-Cloud&logoColor=FFF" alt="阿里云" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-Nginx-009639?logo=Nginx&logoColor=FFF" alt="Nginx" style="display: inline-block;" />&nbsp;
   <img src="https://img.shields.io/badge/-VMware-607078?logo=VMware&logoColor=FFF" alt="VMware" style="display: inline-block;" />&nbsp;
@@ -73,13 +68,7 @@
   <img src="https://img.shields.io/badge/-Lua-FFF?&logo=Lua&logoColor=2C2D72" alt="Lua" style="display: inline-block;" />&nbsp;
 </p>
 
-### 测试技术栈
-
-<p>
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?logo=Postman&logoColor=FFF" alt="Postman" style="display: inline-block;" />&nbsp;
-</p>
-
-### 开发工具
+### DevTool
 
 <p>
   <img src="https://img.shields.io/badge/-WebStorm-000?logo=WebStorm&logoColor=FFF" alt="WebStorm" style="display: inline-block;" />&nbsp;
@@ -88,7 +77,7 @@
   <img src="https://img.shields.io/badge/-VSCodium-C0C0C0?logo=VSCodium&logoColor=007ACC" alt="VSCodium" style="display: inline-block;" />&nbsp;
 </p>
 
-### 其他
+### Other
 
 <p>
   <img src="https://img.shields.io/badge/-Markdown-000?logo=Markdown&logoColor=FFF" alt="Markdown" style="display: inline-block;" />&nbsp;
